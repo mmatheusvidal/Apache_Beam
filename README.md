@@ -1,6 +1,6 @@
 # Apache_Beam
 
-Pipeline criar durante o curso Apache Beam: Data Pipeline com Python da Alura.
+Pipeline criada durante o curso Apache Beam: Data Pipeline com Python da Alura.
 
 Datasets info:
 - chuvas.csv: 435,4 MB
